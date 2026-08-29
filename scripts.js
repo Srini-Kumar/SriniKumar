@@ -56,7 +56,7 @@ const SKILLS = [
   { name: "Python",       icon: "files/images/icons/py.svg", fallback: '<i class="fa-brands fa-python" style="color:#3776AB"></i>',   desc: "I can easily write Python code for various programming tasks." },
   { name: "C/C++",       icon: "", fallback: '<i class="fa-solid fa-c" style="color:#3776AB"></i>',   desc: "I can write clean and efficient code for various use cases." },
   { name: "Git & GitHub", icon: "", fallback: '<i class="fa-brands fa-github" style="color:#1B1F23"></i>',   desc: "I can use Git and GitHub for version control and collaboration." },
-  { name: "Linux", icon: "files/images/icons/Tux.svg", fallback: '<i class="fa-brands fa-linux" style="color:#000000"></i>',   desc: "I can navigate and use Linux command-line interface effectively." },
+  { name: "Linux", icon: "files/images/icons/Tux.png", fallback: '<i class="fa-brands fa-linux" style="color:#000000"></i>',   desc: "I can navigate and use Linux command-line interface effectively." },
   { name: "AI Prompting", icon: "", fallback: '<i class="fa-solid fa-wand-magic-sparkles" style="color:var(--yellow"></i>',   desc: "I can write effective prompts for desired output for all high level AI models." },
   { name: "HTML",         icon: "", fallback: '<i class="fa-brands fa-html5" style="color:#E44D26"></i>',   desc: "I can structure the web with semantic and accessible markup." },
   { name: "CSS",          icon: "", fallback: '<i class="fa-brands fa-css3-alt" style="color:#2965F1"></i>', desc: "I use CSS for styling and designing responsive, modern user interfaces." },
